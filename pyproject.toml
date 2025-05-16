@@ -1,5 +1,3 @@
-﻿# This file is part of the wat-dis-do-yall package.
-
 [tool.poetry]
 name = "wat-dis-do-yall"
 version = "0.1.5"
