@@ -1,6 +1,8 @@
-﻿[tool.poetry]
-name = "wat_dis_do_yall"
-version = "0.1.4"
+﻿# This file is part of the wat-dis-do-yall package.
+
+[tool.poetry]
+name = "wat-dis-do-yall"
+version = "0.1.5"
 description = "A tiny example package with a print function"
 authors = ["Your Name <you@example.com>"]
 packages = [
