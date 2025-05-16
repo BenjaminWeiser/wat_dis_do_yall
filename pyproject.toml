@@ -1,0 +1,15 @@
+﻿[tool.poetry]
+name = "wat_dis_do_yall"
+version = "0.1.4"
+description = "A tiny example package with a print function"
+authors = ["Your Name <you@example.com>"]
+packages = [
+  { include = "wat_dis_do_yall", from = "src" }
+]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
